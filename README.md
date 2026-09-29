@@ -1,8 +1,14 @@
-# 💫 About Me:
-I am a second-year Computer Science student with a keen interest in Web Development, DevOps, and Data Structures & Algorithms. I enjoy developing scalable web applications and learning how systems are deployed and managed in real-world environments.
+## About Me
 
-With a strong foundation in problem-solving and continuous learning, I aim to build efficient, user-focused solutions and grow as a skilled software engineer.
+Hi, I’m Anjali Gupta, a third-year Computer Science student interested in software development and building things that are actually useful.
 
+My main areas of interest are Full-Stack Web Development, DevOps, Data Structures & Algorithms, and Generative AI. I enjoy working with technologies like React.js, Node.js, Express.js, MongoDB, SQL, and Next.js, and I’m gradually exploring more about cloud and deployment using AWS, Docker, and CI/CD.
+
+I like learning by building projects rather than just studying concepts. Working on different projects has helped me understand not only how to write code, but also how applications are structured, deployed, and maintained in real-world environments.
+
+I’m also consistently working on DSA to improve my problem-solving and logical thinking. Alongside development, I’m exploring Generative AI and learning how AI can be integrated into practical applications.
+
+Currently, I’m focused on improving my skills, building better projects, and gaining more real-world development experience. My goal is to become a well-rounded software engineer who can understand a problem, build a solution, and take it from development to deployment.
 
 
 ## 🌐 Socials:

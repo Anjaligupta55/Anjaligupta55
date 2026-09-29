@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 Hi, I’m Anjali Gupta, a third-year Computer Science student interested in software development and building things that are actually useful.
 
